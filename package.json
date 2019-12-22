@@ -1,0 +1,19 @@
+{
+  "name": "sprite-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loader-runner": "^3.1.0",
+    "run-loader": "0.0.6"
+  },
+  "devDependencies": {
+    "spritesmith": "^3.4.0"
+  }
+}
